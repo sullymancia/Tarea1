@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493051148 source:c:\users\sully mancia\documents\clases\analisisdealgoritmos\orderedvectorsearch\test.cpp
+	"Test.h"
+
+1493051178 c:\users\sully mancia\documents\clases\analisisdealgoritmos\orderedvectorsearch\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1493316363 source:c:\users\sully mancia\documents\clases\analisisdealgoritmos\orderedvectorsearch\main.cpp
+	"Test.h"
+	<iostream>
+
